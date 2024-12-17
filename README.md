@@ -1,5 +1,6 @@
 ## Hi there 👋
-## Skills
+
+### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=arduino,c,cpp,python,linux)](https://skillicons.dev)
 <!--
