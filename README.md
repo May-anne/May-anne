@@ -1,16 +1,13 @@
 ## Hi there, I'm Mayanne 👋
 
-📚 Computer Engineering student at UPE and a certified Electronics Technician from IFPE. I am currently delving deeper into Network Security, the Internet of Things, and Machine Learning through academic research. Additionally, I have a strong interest in topics such as embedded systems and cybersecurity, with a focus on creating innovative and secure technological solutions. 
+📚 Currently working as a Software Developer, with a strong interest in IoT, Embedded Systems, and Machine Learning applied to these fields. Passionate about building secure, efficient, and innovative technological solutions.
 
-### Programming Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=arduino,c,cpp,python,linux,github)](https://skillicons.dev)
+### 💻 Languages
+[![Languages](https://skillicons.dev/icons?i=c,cpp,python,typescript,css,sql)](https://skillicons.dev)
 
-### My GitHub Activity
-<div>
-<a href="https://github.com/May-anne">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=May-anne&layout=compact&langs_count=7&theme=tokyonight"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=May-anne&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+### 🛠 Tools & Platforms
+[![Tools](https://skillicons.dev/icons?i=arduino,linux,docker,react,github)](https://skillicons.dev)
+![Mendix](https://img.shields.io/badge/Mendix-311B92?style=for-the-badge&logo=mendix&logoColor=white)
 
 ### Contact Me
 <div>
